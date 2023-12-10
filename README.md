@@ -1,4 +1,4 @@
-# Midjourney Prompt Clustering (DTSA 5506 Data Mining Project)
+# Midjourney Prompt Clustering 
 
 Processing and clustering Midjourney prompts using NLP techniques.
 
