@@ -42,7 +42,8 @@ These point to broader categories like entertainment and graphic design, as well
 
 ## Dataset
 
-The prompt dataset for this project can be obtained from: [vivym/midjourney-messages](https://huggingface.co/datasets/vivym/midjourney-messages) [1].
+The prompt dataset for this project is available on HuggingFace thanks to Ming Yang: 
+[vivym/midjourney-messages](https://huggingface.co/datasets/vivym/midjourney-messages) [1].
 
 ## Setup
 
